@@ -1,0 +1,13 @@
+# misc
+.DS_Store
+**/.DS_Store
+
+.firebaserc
+.firebase
+.dockerignore
+
+*.log*
+**/*.log*
+
+todo.md
+
